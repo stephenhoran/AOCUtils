@@ -1,4 +1,4 @@
-package AOCUtils
+package aocutils
 
 import (
 	"strconv"

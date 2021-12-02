@@ -1,3 +1,3 @@
-module github.com/stephenhoran/AOCUtils
+module github.com/stephenhoran/aocutils
 
 go 1.17
